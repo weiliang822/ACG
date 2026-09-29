@@ -1,5 +1,6 @@
 # Authorization Closure Graph: Minimal Repair for LLM Agents with Evolving User Instructions
 
+arxiv: https://arxiv.org/pdf/2609.32428
 Implementation of  **ACG**:
 
 - `main.py`: experiment entry point.
